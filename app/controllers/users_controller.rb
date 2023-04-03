@@ -7,6 +7,7 @@ before_action :correct_user, only: [:edit, :update]
     @user = User.find(params[:id])
     @books = @user.books
     @book = Book.new
+    # @book = Book.find(params[:id])
   end
 
   def edit
