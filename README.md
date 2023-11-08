@@ -19,8 +19,6 @@ https://github.com/cacaobucks/bookers2.ver2/assets/110584408/5e8a2c7b-18f6-44a1-
  
 # Requirement
  
-"hoge"を動かすのに必要なライブラリなどを列挙する
- 
 * rails '~> 6.1.7', '>= 6.1.7.2'
 * ruby '3.1.2'
 * webpacker '~> 5.0'
@@ -48,15 +46,13 @@ cd bookers2.ver2-main
 ’’Input of specified command.’’
 ```
  
-# Note
- 
-注意点などがあれば書く
  
 # Author
  
  [cacaobucks](https://github.com/cacaobucks)
+
+ 
 # License
-ライセンスを明示する
  
 "bookers.ver2" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
  
