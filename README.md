@@ -56,5 +56,5 @@ cd bookers2.ver2-main
 # License
 ライセンスを明示する
  
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+"bookers.ver2" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
  
