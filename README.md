@@ -41,7 +41,7 @@ $ rails s
 # Usage
  
 ```bash
-git clone https://github.com/hoge/~
+git clone　https://github.com/cacaobucks/bookers2.ver2.git
 cd bookers2.ver2-main
 ’’Input of specified command.’’
 ```
