@@ -9,11 +9,11 @@ https://github.com/cacaobucks/bookers2.ver2/assets/110584408/5e8a2c7b-18f6-44a1-
  
 # Features
  
-📚 Ability to post, edit, and delete text.
-🙂 Ability to create users.
-😊 Ability to follow other users.
- ❤️ Like and comment functions.
-🤳 Sign up and sign in functions.
+📚 Ability to post, edit, and delete text.<br>
+🙂 Ability to create users.<br>
+😊 Ability to follow other users.<br>
+ ❤️ Like and comment functions.<br>
+🤳 Sign up and sign in functions.<br>
  
 # Requirement
  
