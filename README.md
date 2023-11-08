@@ -21,10 +21,14 @@
  
 # Installation
  
-Requirementで列挙したライブラリなどのインストール方法を説明する
+Execute all of the following commands to start the rails server.
  
 ```bash
-pip install huga_package
+$ bundle install
+$ yarn install
+$ rails db:migrate
+$ rails db:seed
+$ rails s
 ```
  
 # Usage
