@@ -9,14 +9,22 @@ https://github.com/cacaobucks/bookers2.ver2/assets/110584408/5e8a2c7b-18f6-44a1-
  
 # Features
  
-"hoge"のセールスポイントや差別化などを説明する
+📚 Ability to post, edit, and delete text.
+🙂 Ability to create users.
+😊 Ability to follow other users.
+ ❤️ Like and comment functions.
+🤳 Sign up and sign in functions.
  
 # Requirement
  
 "hoge"を動かすのに必要なライブラリなどを列挙する
  
-* huga 3.5.2
-* hogehuga 1.0.2
+* rails '~> 6.1.7', '>= 6.1.7.2'
+* ruby '3.1.2'
+* webpacker '~> 5.0'
+* 'puma' '~> 5.0'
+* 'devise'
+* etc...
  
 # Installation
  
@@ -32,12 +40,10 @@ $ rails s
  
 # Usage
  
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
- 
 ```bash
 git clone https://github.com/hoge/~
-cd examples
-python demo.py
+cd bookers2.ver2-main
+’’Input of specified command.’’
 ```
  
 # Note
