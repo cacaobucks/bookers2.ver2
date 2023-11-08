@@ -4,8 +4,8 @@
 You must have read many books in your life. But the memory of reading those books will fade over time. This application is designed to record the books you have finished reading.
  
 # DEMO
- 
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
+https://github.com/cacaobucks/bookers2.ver2/assets/110584408/5e8a2c7b-18f6-44a1-9dd9-979884d84ec3
+
  
 # Features
  
